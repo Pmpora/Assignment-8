@@ -9,7 +9,7 @@ function  greetMeOthers(myName, age) {
     console.log(myName, age);   
 }
 
-greetMeOthers("Patienece", 21)
+greetMeOthers("Patience", 21)
 greetMeOthers("Pamella", 22)
 greetMeOthers("Paul", 24)
 greetMeOthers("Alison", 23)
